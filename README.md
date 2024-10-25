@@ -10,3 +10,5 @@ Photos
 
 Technical 
 Compose, Kotlin, Coroutines, Retrofit(with caching), Room, NFC, Authentication with beometrics, Bottom navigation, MVI, Multi moduling
+
+[Download file](https://github.com/Theultimatecreator/Anorbank/releases/download/v1.0/app-debug.apk)
