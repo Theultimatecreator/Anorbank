@@ -5,7 +5,7 @@ Anorbank clone app, fully functional mobile banking app
 
 
 
-**📸<h2>Screenshots</h2>**                                                                         
+**📸 Screenshots**                                                                         
 
 ![image](https://github.com/user-attachments/assets/e97c6487-38c2-4718-8eb7-4c61cf931311)
 ![image](https://github.com/user-attachments/assets/1fabef6a-9534-4308-aec1-e367b81af793)
