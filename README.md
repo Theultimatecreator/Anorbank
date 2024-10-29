@@ -1,5 +1,6 @@
 # 🌟 ANORBANK
-#Anorbank clone app, fully functional mobile banking app
+Anorbank clone app, fully functional mobile banking app
+#
 # 📲 [Download](https://github.com/Theultimatecreator/Anorbank/releases/download/v1.0/app-debug.apk)
 
 
@@ -10,11 +11,13 @@
 ![image](https://github.com/user-attachments/assets/1fabef6a-9534-4308-aec1-e367b81af793)
 ![image](https://github.com/user-attachments/assets/ab1a56ed-ab26-4363-a086-f9e54a678b05)
 
+#
 
 🔍 About               
 
 You can transfer and receive moeny(not real) though this app with cool ui, adding card then trancking history are already working. There is some futures like Nfc card reading, bimetrick pin, shaking phone to go to the Transfer screen and so on.
 
+#
 
 🛠️ Technologies   
 
@@ -36,6 +39,8 @@ Multi moduling- for clean Architecture.
 2. Open the APK on your Android device.
 3. Allow installation from unknown sources if prompted.
 4. Open the app and enjoy!
+
+#
 
 👤 Author
 
