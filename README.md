@@ -44,5 +44,5 @@ Multi moduling- for clean Architecture.
 
 👤 Author
 
-Created by [Ismoilov Diyorbek](t.me/MrGladiator)
+Created by [Ismoilov Diyorbek](https://t.me/MrGladiator)
 Feel free to reach out for any questions or suggestions.
